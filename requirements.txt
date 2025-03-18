@@ -1,0 +1,8 @@
+gradio
+tensorflow
+tensorflow-hub
+opencv-python
+numpy
+Pillow
+imageio
+IPython
